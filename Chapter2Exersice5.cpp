@@ -1,4 +1,4 @@
-/*FileName:Chaoter2Exersice5.cpp
+/*FileName:Chapter2Exersice5.cpp
 Programmer;Charles Sherwood
 Date:2/2025
 Requirments:Get the average of numbers by adding them and 
